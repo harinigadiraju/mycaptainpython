@@ -1,3 +1,4 @@
 filename = input("Enter file name: ")
 ext = filename.split(".")
-print("the extension of the file is : " + str(ext[-1]))
+extension = ext[-1]
+print("the extension of the file is : " + str(extnsion))
